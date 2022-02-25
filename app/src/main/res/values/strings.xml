@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="option1">0-5</string>
+    <string name="option2">6-11</string>
+    <string name="option3">12-17</string>
+    <string name="option4">18-99</string>
+</resources>
